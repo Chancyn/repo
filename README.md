@@ -1,4 +1,5 @@
 # repo
+git clone https://mirrors.tuna.tsinghua.edu.cn/git/git-repo
 
 Repo is a tool built on top of Git.  Repo helps manage many Git repositories,
 does the uploads to revision control systems, and automates parts of the
